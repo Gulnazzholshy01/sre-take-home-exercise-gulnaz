@@ -6,7 +6,7 @@ Ensure Python is installed, then install dependencies:
 
 #### 2. Running the Monitor
 Execute the script with a YAML configuration file:
-```python main.py samples.yaml```
+```python main.py sample.yaml```
 
 ## Issue Identification & Fixes
 
